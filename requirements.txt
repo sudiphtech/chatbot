@@ -1,0 +1,6 @@
+Django>=4.2
+numpy>=1.24
+scikit-learn>=1.2
+pandas>=1.5
+joblib>=1.2
+openpyxl>=3.1
